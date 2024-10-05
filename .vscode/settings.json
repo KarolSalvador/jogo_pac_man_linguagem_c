@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "mapa.h": "c",
+        "locale.h": "c"
+    }
+}
